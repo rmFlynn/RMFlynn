@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 you found my GitHub
 
-<!--
-**rmFlynn/RMFlynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't have the time to give this page the love it deserves at the moment, when will I? IDK, Maybe you can hire me and give me a day off, lol. In the meantime, checkout my website RMFlynn.co, it's just 'co' com was not available.
 
-Here are some ideas to get you started:
+### Here are my quick little answers to GitHub's Q&A:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on DRAM2 and genetic data more broadly
+- 🌱 I’m currently learning Rust for fun and maybe profit
+- 👯 I’m looking to collaborate on Green Energie
+- 🤔 I’m looking for help with adapting lagguage models with few shot methods
+- 💬 Ask me about baysian networks, earth buildings, Linux, Why I love Python, Why I hate Python
+- 📫 How to reach me: Dis-on Linux and I will find you
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like building non-software stuff too, out of wood and cement
+### Here is a personal statement:
+
+I am a Research Software Engineer, focused on Data Science, Machine Learning, and Statistics. Currently, I am looking for a new opportunity to apply myself.
+
+With my education and work history, I am confident that I can meet all goals and expectations put before me. I hold a bachelor’s degree in Mathematics and Statistics and a master’s degree in Computer Science, with a focus in Data Science. Through my degrees, I have received formal training in Statistical analysis, Software Development, and Data-Driven Analysis. Outside of academia, I have 5 years of experience developing Software in the research industry.
+I have become adept at build pipelines, analyzing TB of data, and creating visuals of results. My work experience includes being the head developer of the DRAM Open Source project. As DRAM`s software lead, I contributed a large amount of public code, and mastered software development tools for version control and documentation.
+
+With this background, I have a deep understanding of the needs and challenges unique to creating software for science and research. I continually strive to perfect skills, gain knowledge, and make work that I can be proud of. I would be honored to do so as part of your team.
+
