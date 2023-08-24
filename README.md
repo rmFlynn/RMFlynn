@@ -1,6 +1,6 @@
 ### Hi there 👋 you found my GitHub
 
-I don't have the time to give this page the love it deserves at the moment, when will I? IDK, Maybe you can hire me and give me a day off, lol. In the meantime, checkout my website RMFlynn.co, it's just 'co' com was not available.
+I don't have the time to give this page the love it deserves at the moment. When will I have time? IDK, Maybe you can hire me and give me a day off, lol. In the meantime, checkout my website RMFlynn.co, it's just 'co' as com was not available.
 
 ### Here are my quick little answers to GitHub's Q&A:
 
